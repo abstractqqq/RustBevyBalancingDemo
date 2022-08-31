@@ -50,5 +50,5 @@ https://www.youtube.com/watch?v=WN0XK8wddac
 Sprite sheet is also taken from his project.
 
 Video of the demo:
-
+https://www.youtube.com/watch?v=6XLH7deo19w&t=2s
 
